@@ -1,0 +1,9 @@
+
+spring:
+  datasource:
+    url: jdbc:mariadb://localhost:3306/tobyspringboot
+    username: oytarij
+    password: 4orescout
+    driver-class-name: org.mariadb.jdbc.Driver
+  jpa:
+    database-platform: org.hibernate.dialect.MariaDBDialect
