@@ -1,4 +1,4 @@
-package tobyspringboot.exam.domain;
+package tobyspringboot.exam.user.domain;
 
 public class User {
     //Javabean 규약을 따르는 오브젝트 이용
